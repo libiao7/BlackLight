@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "BlackLight",
+    "version": "1.0",
+    "theme": {
+        "images": {
+            "theme_toolbar": "w56_256.png"
+        },
+        "colors": {
+            "frame": [
+                0,
+                0,
+                0
+            ],
+            "toolbar": [
+                0,
+                0,
+                0
+            ]
+        }
+    }
+}
